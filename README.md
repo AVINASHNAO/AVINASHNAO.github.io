@@ -1,5 +1,6 @@
 <html>
 <body>
+<img src="" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Rb1dAq9vFXdWlAVT_udOIhJJuLq6azUqPaIQgeMFuxeEnvUs43CLp9Bc&s=10 >
 <I><h1>HII!!!<H1>
 
 <I><H2>AVINASH NAOREM</H2>
@@ -28,5 +29,3 @@ Villager: What happened to you?<br>
 With the end of this story the moral lesson to all of us is: </I>
 <h1>Don’t chase happiness. Enjoy your life.</h1>
 
-</body>
-</html>
