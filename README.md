@@ -28,4 +28,3 @@ Villager: What happened to you?<br>
 
 With the end of this story the moral lesson to all of us is: </I>
 <h1>Don’t chase happiness. Enjoy your life.</h1>
-![nature](https://cdn.guidingtech.com/media/assets/WordPress-Import/2017/03/background-nature-21-1024*576.jpg)
