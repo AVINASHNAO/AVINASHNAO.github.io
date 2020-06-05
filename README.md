@@ -28,4 +28,4 @@ Villager: What happened to you?<br>
 
 With the end of this story the moral lesson to all of us is: </I>
 <h1>Don’t chase happiness. Enjoy your life.</h1>
-![beautiful scenery](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRvE5ZrhfRp-Q0Af8nqGfMokVeKhGboHdzD_OgfY1kfPJwhLdS&usqp=CAU)
+![nature](https://www.google.com/search?q=beautiful+scenery+image&rlz=1C1RLNS_enIN903IN903&sxsrf=ALeKk0322Cpl2Bv1vrUZNnLedEg757i_pg:1591367875649&tbm=isch&source=iu&ictx=1&fir=6CsD3-sy-kP7hM%253A%252CNsjLmIDAbiISsM%252C_&vet=1&usg=AI4_-kRyE0U-mZqTkP-e3FPRl2MpeufkBA&sa=X&ved=2ahUKEwiFlb2n8-rpAhVJ73MBHeo6B-MQ9QEwCnoECAoQQw#imgrc=6CsD3-sy-kP7hM:)
