@@ -6,7 +6,7 @@
 
 READING IN CLASS 10
 MOTHER'S PRIDE ACADEMY</I>
-<h1>Today i will narrate a very interesting story</h1>
+<I><h1>Today i will narrate a very interesting story</h1></I>
 
 <P>An old man lived in the village. He was one of the most unfortunate people in the world. The whole village was tired of him; he was always gloomy, he constantly complained and was always in a bad mood.</P><br>
 
